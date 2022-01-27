@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Antunes0&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Antunes0&theme=radical)
 </p>
